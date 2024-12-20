@@ -1,0 +1,6 @@
+{
+  "name": "maeva/placeholder",
+  "description": "Reserve the vendor name while we work on real packages.",
+  "license": "proprietary",
+  "minimum-stability": "dev"
+}
